@@ -1,0 +1,14 @@
+{
+  "name": "libreviewapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inventivetalent",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
