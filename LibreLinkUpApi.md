@@ -1,3 +1,6 @@
+# LibreLinkUp API
+A compilation of reverse engineering results of the LibreLinkUp API used by the mobile app
+
 
 ## Login
 `POST` `https://api-eu.libreview.io/lsl/api/nisperson/getauthenticateduser`
